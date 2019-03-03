@@ -1,0 +1,207 @@
+[
+    [
+        "/Users/osa.amadasun@ibm.com/vscode-workspace/geolocation/force-app",
+        {
+            "state": "n",
+            "sourcePath": "/Users/osa.amadasun@ibm.com/vscode-workspace/geolocation/force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1551473761383,
+            "changeTime": 1551473761383,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/osa.amadasun@ibm.com/vscode-workspace/geolocation/force-app/main",
+        {
+            "state": "n",
+            "sourcePath": "/Users/osa.amadasun@ibm.com/vscode-workspace/geolocation/force-app/main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1551473761383,
+            "changeTime": 1551473761383,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/osa.amadasun@ibm.com/vscode-workspace/geolocation/force-app/main/default",
+        {
+            "state": "u",
+            "sourcePath": "/Users/osa.amadasun@ibm.com/vscode-workspace/geolocation/force-app/main/default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 192,
+            "modifiedTime": 1551577701941,
+            "changeTime": 1551577701941,
+            "contentHash": "a0030d42f6f61cf8bafda6dd54980991bb2dd1b7"
+        }
+    ],
+    [
+        "/Users/osa.amadasun@ibm.com/vscode-workspace/geolocation/force-app/main/default/aura",
+        {
+            "state": "n",
+            "sourcePath": "/Users/osa.amadasun@ibm.com/vscode-workspace/geolocation/force-app/main/default/aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 64,
+            "modifiedTime": 1551473761383,
+            "changeTime": 1551473761383,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/osa.amadasun@ibm.com/vscode-workspace/geolocation/force-app/main/default/lwc",
+        {
+            "state": "n",
+            "sourcePath": "/Users/osa.amadasun@ibm.com/vscode-workspace/geolocation/force-app/main/default/lwc",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 64,
+            "modifiedTime": 1551473761383,
+            "changeTime": 1551473761383,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/osa.amadasun@ibm.com/vscode-workspace/geolocation",
+        {
+            "state": "n",
+            "sourcePath": "/Users/osa.amadasun@ibm.com/vscode-workspace/geolocation",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 256,
+            "modifiedTime": 1551576826193,
+            "changeTime": 1551576826193,
+            "contentHash": "07da07834d8f50a1018cf646c911906296572a7c",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/osa.amadasun@ibm.com/vscode-workspace/geolocation/force-app/main/default/objects/Account/fields/Location__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/osa.amadasun@ibm.com/vscode-workspace/geolocation/force-app/main/default/objects/Account/fields/Location__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 403,
+            "modifiedTime": 1551577701936,
+            "changeTime": 1551577701936,
+            "contentHash": "6b6949a234f89bf80a2a4bac6f7d790775dbd596"
+        }
+    ],
+    [
+        "/Users/osa.amadasun@ibm.com/vscode-workspace/geolocation/force-app/main/default/layouts/Account-Account %28Sales%29 Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/osa.amadasun@ibm.com/vscode-workspace/geolocation/force-app/main/default/layouts/Account-Account %28Sales%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9582,
+            "modifiedTime": 1551577701942,
+            "changeTime": 1551577701942,
+            "contentHash": "b1147d7789c84115e211f58721fa912fea93654c"
+        }
+    ],
+    [
+        "/Users/osa.amadasun@ibm.com/vscode-workspace/geolocation/force-app/main/default/layouts/Account-Account %28Marketing%29 Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/osa.amadasun@ibm.com/vscode-workspace/geolocation/force-app/main/default/layouts/Account-Account %28Marketing%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9630,
+            "modifiedTime": 1551577701948,
+            "changeTime": 1551577701948,
+            "contentHash": "dcdf8712700a9c47addd7bf70102c8aa5cd38a22"
+        }
+    ],
+    [
+        "/Users/osa.amadasun@ibm.com/vscode-workspace/geolocation/force-app/main/default/layouts/Account-Account Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/osa.amadasun@ibm.com/vscode-workspace/geolocation/force-app/main/default/layouts/Account-Account Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9582,
+            "modifiedTime": 1551577701952,
+            "changeTime": 1551577701952,
+            "contentHash": "ae2a52f5aed66a201000ad6ac9a92ea7f3734278"
+        }
+    ],
+    [
+        "/Users/osa.amadasun@ibm.com/vscode-workspace/geolocation/force-app/main/default/layouts/Account-Account %28Support%29 Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/osa.amadasun@ibm.com/vscode-workspace/geolocation/force-app/main/default/layouts/Account-Account %28Support%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9630,
+            "modifiedTime": 1551577701955,
+            "changeTime": 1551577701955,
+            "contentHash": "3d2eb4a1cc29b3e1dc5e6feba7e37fa152623195"
+        }
+    ],
+    [
+        "/Users/osa.amadasun@ibm.com/vscode-workspace/geolocation/force-app/main/default/objects/Account/fields",
+        {
+            "state": "u",
+            "sourcePath": "/Users/osa.amadasun@ibm.com/vscode-workspace/geolocation/force-app/main/default/objects/Account/fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1551577701936,
+            "changeTime": 1551577701936,
+            "contentHash": "64560c84ade9015d36bd21e8436a4d2662babedc"
+        }
+    ],
+    [
+        "/Users/osa.amadasun@ibm.com/vscode-workspace/geolocation/force-app/main/default/objects/Account",
+        {
+            "state": "u",
+            "sourcePath": "/Users/osa.amadasun@ibm.com/vscode-workspace/geolocation/force-app/main/default/objects/Account",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1551577701934,
+            "changeTime": 1551577701934,
+            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07"
+        }
+    ],
+    [
+        "/Users/osa.amadasun@ibm.com/vscode-workspace/geolocation/force-app/main/default/objects",
+        {
+            "state": "u",
+            "sourcePath": "/Users/osa.amadasun@ibm.com/vscode-workspace/geolocation/force-app/main/default/objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1551577701934,
+            "changeTime": 1551577701934,
+            "contentHash": "85dfa32c97d8618d1bea083609e2c8a29845abe5"
+        }
+    ],
+    [
+        "/Users/osa.amadasun@ibm.com/vscode-workspace/geolocation/force-app/main/default/layouts",
+        {
+            "state": "u",
+            "sourcePath": "/Users/osa.amadasun@ibm.com/vscode-workspace/geolocation/force-app/main/default/layouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 192,
+            "modifiedTime": 1551577701955,
+            "changeTime": 1551577701955,
+            "contentHash": "e3687f65b0885128a02e534ece5e0cf3ce9f38c0"
+        }
+    ]
+]
